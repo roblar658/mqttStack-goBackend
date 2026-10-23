@@ -1,0 +1,5 @@
+# .gitignore for Smart House Stack
+smarthouse-stack/
+*.log
+.DS_Store
+Thumbs.db
